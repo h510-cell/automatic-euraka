@@ -1,0 +1,20 @@
+h3{
+    color: darkorchid;
+}
+.header{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+.items{
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+}
+h1{
+    color: turquoise;
+    background-color: chocolate;
+}
+.items:hover img{
+    opacity: 0.33;
+}
